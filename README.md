@@ -2,9 +2,9 @@
 
 <!--
 **Yongb15/Yongb15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=모양&color=black&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 Here are some ideas to get you started:
-
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
