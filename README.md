@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongb15)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongb15&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
