@@ -15,20 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
-
-<br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongb15)](https://github.com/anuraghazra/github-readme-stats) 
-
-<br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongb15&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-<br><br>
-
 <details>
 <summary>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우는 중... 
@@ -44,6 +30,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mySql" />
 </details>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongb15)](https://github.com/anuraghazra/github-readme-stats) 
+
+<br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongb15&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br>
 
