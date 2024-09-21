@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongb15&hide=contribs,prs&show_icons=true&theme=graywhite)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
+
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![html](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
