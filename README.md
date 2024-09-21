@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongb15)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51D7F7&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Language;DB)(https://git.io/typing-svg)
 
 <details>
 <summary>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51D7F7&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Language;DB)(https://git.io/typing-svg)
+
 </summary>
   ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
