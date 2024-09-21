@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=150&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=150&section=header&fontSize=40&fontColor=ffffff" />
 
 <details>
 <summary>
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=150&section=footer&text=Thank%20you!&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A8DADC&height=150&section=footer&fontSize=40&fontColor=ffffff" />
