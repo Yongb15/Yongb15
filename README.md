@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <details>
 <summary>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우는 중... 
@@ -33,7 +35,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
