@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 50px;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Yongb15&theme=tokyonight-duo&locale=ko&mode=weekly" alt="GitHub Streak" />
   </a>
