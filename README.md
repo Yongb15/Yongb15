@@ -71,6 +71,6 @@
 
 <div align="center">
 
-📫 dydqls8620@yuhan.ac.kr &nbsp;·&nbsp; [Notion](https://app.notion.com/p/378ef01e202b806f92efdbf647126682)
+📫 dydqls5658@naver.com &nbsp;·&nbsp; [Notion](https://app.notion.com/p/378ef01e202b806f92efdbf647126682)
 
 </div>
