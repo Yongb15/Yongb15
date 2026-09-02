@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![QMatch](https://github-readme-stats.vercel.app/api/pin/?username=MianShang&repo=QMatch&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/MianShang/QMatch)
+[![QMatch](https://github-readme-stats.vercel.app/api/pin/?username=MianShang&repo=QMatch&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/Yongb15/QMatch)
 
 </div>
 
