@@ -2,11 +2,11 @@
 
 # 안녕하세요, 김용빈입니다 👋
 
-**컴퓨터공학과 · 백엔드 & 시스템 개발에 관심 있습니다**
+**컴퓨터소프트웨어공학과 · 백엔드 개발에 관심 있습니다**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=440&lines=Backend+Developer;Systems+%26+Embedded+Interested;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=440&lines=Backend+Developer;Java+%7C+Spring+Boot;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
