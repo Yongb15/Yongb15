@@ -22,12 +22,23 @@
 
 ---
 
+### 🎓 Education
+
+| 기간 | 내용 |
+|---|---|
+| 2023 – 2025 | 유한대학교 컴퓨터소프트웨어공학과 졸업 |
+| 2026 – 2027 | 유한대학교 컴퓨터소프트웨어공학과 전공심화 재학 중 |
+
+---
+
 ### 📜 Certifications
 
 | 자격증 | 발급처 |
 |---|---|
 | 정보처리산업기사 | 한국산업인력공단 |
 | 리눅스마스터 2급 | 한국정보통신진흥협회 |
+| 전기기능사 | 한국산업인력공단 |
+| 승강기기능사 | 한국산업인력공단 |
 
 ---
 
@@ -42,16 +53,17 @@
 
 ---
 
-### 📌 Featured
+### 📌 Projects
 
 <div align="center">
 
-<a href="https://github.com/Yongb15/QMatch">
-  <img src="https://img.shields.io/badge/QMatch-게임_유저_매칭_플랫폼-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-<sub>Spring Boot · React · Electron · WebSocket · MySQL</sub>
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| [QMatch](https://github.com/Yongb15/QMatch) | 게임 유저 매칭 플랫폼 | Spring Boot · React · Electron · WebSocket |
+| [WindowAPI_YutNori](https://github.com/Yongb15/WindowAPI_YutNori) | C++ Windows API 기반 윷놀이 게임 | C++ · Windows API |
+| [Ref_GuestBook](https://github.com/Yongb15/Ref_GuestBook) | 방명록 (파일 입출력 · 메모리 관리) | C++ |
+| [OOP-Study](https://github.com/Yongb15/OOP-Study) | C# 객체지향 설계 스터디 | C# |
+| [Jailbreak](https://github.com/Yongb15/Jailbreak) | 한국어 페르소나 기반 Jailbreak 공격에 대한 LLM 보안 성능 비교 연구 | Python · Prompt Engineering |
 
 </div>
 
@@ -59,6 +71,6 @@
 
 <div align="center">
 
-📫 dydqls8620@yuhan.ac.kr
+📫 dydqls8620@yuhan.ac.kr &nbsp;·&nbsp; [Notion](https://app.notion.com/p/378ef01e202b806f92efdbf647126682)
 
 </div>
