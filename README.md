@@ -46,7 +46,12 @@
 
 <div align="center">
 
-[![QMatch](https://github-readme-stats.vercel.app/api/pin/?username=MianShang&repo=QMatch&theme=tokyonight&hide_border=true&border_radius=8)](https://github.com/Yongb15/QMatch)
+<a href="https://github.com/Yongb15/QMatch">
+  <img src="https://img.shields.io/badge/QMatch-게임_유저_매칭_플랫폼-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+<sub>Spring Boot · React · Electron · WebSocket · MySQL</sub>
 
 </div>
 
