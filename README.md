@@ -10,31 +10,6 @@
 
 ---
 
-### 🃏 Featured — Pokémon Card Dex
-
-<div align="center">
-
-**포켓몬 카드 20,635장을 한국어로 검색하고, 영문·일본·PSA 시세를 원화로 보고, 덱을 짜고, 가상 포인트로 경매하는 서비스**
-
-[![Live](https://img.shields.io/badge/Live-pokemon--card--dex-e3350d?style=for-the-badge&logo=vercel&logoColor=white)](https://pokemon-card-dex-green.vercel.app) [![Repo](https://img.shields.io/badge/Repo-pokemon--cardgame-24292f?style=for-the-badge&logo=github)](https://github.com/Yongb15/pokemon-cardgame) [![Release](https://img.shields.io/github/v/release/Yongb15/pokemon-cardgame?style=for-the-badge&color=6366F1)](https://github.com/Yongb15/pokemon-cardgame/releases)
-
-<img src="https://raw.githubusercontent.com/Yongb15/pokemon-cardgame/main/docs/screenshots/demo.gif" width="720" alt="검색 → 카드 상세 → 시세 순위 → 경매"/>
-
-</div>
-
-| 항목 | 내용 |
-|---|---|
-| **규모** | 카드 20,635장 · 세트 176개 · 하루 약 4천 장 시세 자동 수집 · 릴리스 v1.0 → v1.7 (2026-10) |
-| **구조** | React 19 SPA (Vercel) → Vercel Functions(카드·시세) / NestJS on Cloud Run(계정·경매) → Neon PostgreSQL · Cloud Run Job 수집기 |
-| **동시성** | 가상 포인트 경매 — 추가만 하는 포인트 장부, 전역 잠금 순서로 **50건 동시 입찰 교착 0건**, 마감 연장·지연 정산 |
-| **보안** | OIDC + PKCE 소셜 로그인, `__Host-` 세션, 테이블·컬럼 단위 최소 권한 DB 계정 3개, 관리자 404·12시간 재로그인 |
-| **품질** | Vitest 300여 개 + 실제 Postgres 동시성 점검 스크립트, Lighthouse 접근성·권장사항·SEO 100, 단계마다 qa·보안 리뷰 |
-| **문제 해결** | 절반 실패하던 수집기 → 오류 라벨로 `53300 too many connections` 추적 후 풀러 전환(실패 0) · 이름이 다른 일본판 카드를 **그림 해시**로 대조 |
-
-<p align="center"><a href="https://github.com/Yongb15/pokemon-cardgame#구조">🧭 구조도</a> &nbsp;·&nbsp; <a href="https://github.com/Yongb15/pokemon-cardgame#문제-해결-기록">🔧 문제 해결 기록</a> &nbsp;·&nbsp; <a href="https://github.com/Yongb15/pokemon-cardgame/releases">📦 릴리스 노트</a></p>
-
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
